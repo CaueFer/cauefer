@@ -2,7 +2,6 @@
 
 
 - 📚 Estudando Eng.Software
-- 💻 Iniciante na progamação
 
 
 <div style="display: inline_block"><br>
