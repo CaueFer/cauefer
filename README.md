@@ -1,27 +1,8 @@
-### Olá
-
-
-- 📚 Estudando Eng.Software
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ##
- 
-<div> 
-  <a href = "mailto:cauefernandescaetano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caue-fernandes-049b7a1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
 ### Hi there 👋
 
 I'm Caue Fernandes,  I'm a Software Engineer student 📚.
 
-[![Linkedin: Caue](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/caue-fernandes-049b7a1a4/?locale=en_US)](linkedin.com/in/caue-fernandes-049b7a1a4/?locale=en_US)
+[![Linkedin: Caue](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/caue-fernandes-049b7a1a4)](linkedin.com/in/caue-fernandes-049b7a1a4)
 
 ## ⚡ Technologies
 
