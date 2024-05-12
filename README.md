@@ -2,7 +2,7 @@
 
 I'm Caue Fernandes, a student studying to become a Software Engineer 📚.
 
-[![Linkedin: Caue](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/caue-fernandes-049b7a1a4)](linkedin.com/in/caue-fernandes-049b7a1a4)
+[![Linkedin: Caue](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caue-fernandes-049b7a1a4/)](https://www.linkedin.com/in/caue-fernandes-049b7a1a4/)
 
 ## ⚡ Technologies
 
