@@ -1,19 +1,66 @@
-### Hi there 👋
 
-I'm Caue Fernandes, a student studying to become a Software Engineer 📚.
+<!--  V I S I T S --->
 
-[![Linkedin: Caue](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caue-fernandes-049b7a1a4/)](https://www.linkedin.com/in/caue-fernandes-049b7a1a4/)
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/CaueFer/cauefer"/> 
+ <img src="https://badges.pufler.dev/repos/CaueFer"/>
+</p>
+<!--- A N I M A T E D   T E X T --->
 
-## ⚡ Technologies
+<br>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=450&lines=Hi+there;I'm+Caue" alt="Typing SVG" /></a>
+</h1>
+<br>
 
-These are some of the technologies and tools that I work with:
+<!--- A B O U T   M E --->
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![My SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h4 align="center">
+🚀 Fullstack Developer 🚀<br><br>
+    <p padding="0px 40px">
+I'm Caue Fernandes, a student studying to become a Software Engineer. </p>
+</h4>
+
+<!--- TECHNOLOGY STACK --->
+<br>
+<h2 align="center">🔥 Technology Stack 🔥</h2>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,mongo,mysql,angular,bootstrap,python" />
+    <br>
+  </a>
+</p><br>
+
+<h2 align="center">📚 Learning 📚</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,postgresql,nextjs" />
+  </a>
+</p><br>
+
+<h2 align="center">⚙️ Tools ⚙️</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  </a>
+</p><br>
+
+<!--- Last Stars Display --->
+
+<h2 align="center">🌟 Favorite Repositories 🌟</h2>
+<br>
+<p align="center">
+  <div align="center" style="display: flex; flex-direction: column;">
+  <img src="https://badges.pufler.dev/last-stars/CaueFer?count=3&padding=15&perRow=3" />
+  </div>
+</p>
+<br>
+<hr>
+<!--- G R E E T I N G   T E X T   A N D   I M A G E --->
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=See+u+next+time" alt="Typing SVG" /></a>
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=70A5FDFF&style=flat&logo" alt="back to top" /></a></p>
