@@ -9,7 +9,7 @@
 
 <br>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=450&lines=Hi+there;I'm+Caue" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=450&lines=Hi+there+👋;I'm+Caue" alt="Typing SVG" /></a>
 </h1>
 <br>
 
@@ -51,7 +51,7 @@ I'm Caue Fernandes,  a Software Engineer student. </p>
 <br>
 <p align="center">
   <div align="center" style="display: flex; flex-direction: column;">
-  <img src="https://badges.pufler.dev/last-stars/CaueFer?count=3&padding=15&perRow=3" />
+  <img src="https://badges.pufler.dev/last-stars/CaueFer?count=6&padding=15&perRow=3" />
   </div>
 </p>
 <br>
