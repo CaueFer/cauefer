@@ -26,7 +26,7 @@ I'm Caue Fernandes,  a Software Engineer student. </p>
 <h2 align="center">🔥 Technology Stack 🔥</h2>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,mongo,mysql,angular,bootstrap,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,nodejs,nestjs,mongo,postgresql,mysql,nextjs,react,angular,tailwind,bootstrap,py" />
     <br>
   </a>
 </p><br>
@@ -34,7 +34,7 @@ I'm Caue Fernandes,  a Software Engineer student. </p>
 <h2 align="center">📚 Learning 📚</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker,postgresql,nextjs" />
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud,docker" />
   </a>
 </p><br>
 
