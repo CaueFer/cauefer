@@ -18,7 +18,9 @@
 <h4 align="center">
 🚀 Fullstack Developer 🚀<br><br>
     <p padding="0px 40px">
-I'm Caue Fernandes,  a Software Engineer student. </p>
+I'm Caue Fernandes, a Software Engineer. <br>
+I’ve been passionate about technology since I was young,  <br>but I started seriously focusing on my studies in 2023. <br>
+I'm currently building fullstack solutions for the web ecosystem.</p>
 </h4>
 
 <!--- TECHNOLOGY STACK --->
