@@ -55,11 +55,16 @@ for the web ecosystem.
 <!--- T O P   P R O J E C T S --->
 <h2 align="center">Top Projects</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaueFer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=e6edf3" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueFer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=70A5FD&text_color=e6edf3" height="165" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=CaueFer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=e6edf3" height="165" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaueFer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=70A5FD&text_color=e6edf3" height="165" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://badges.pufler.dev/last-stars/CaueFer?count=6&padding=15&perRow=3" alt="Most Starred Repositories"/>
+  <a href="https://github.com/CaueFer/graphfy"><img src="https://github-stats-extended.vercel.app/api/pin/?username=CaueFer&repo=graphfy&theme=dark&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=e6edf3" alt="graphfy repo card"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/CaueFer?tab=repositories">
+    <img src="https://img.shields.io/badge/View-All%20Repositories-70A5FD?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=70A5FD" alt="View All Repositories"/>
+  </a>
 </p>
 
 <p align="center">
@@ -96,21 +101,6 @@ Selected work from my <a href="https://c-dev.netlify.app">portfolio</a>:
     </td>
   </tr>
 </table>
-
-<br>
-
-<!--- P O R T F O L I O   P R E V I E W --->
-<h2 align="center">Portfolio</h2>
-<p align="center">
-  <a href="https://c-dev.netlify.app">
-    <img src="https://image.thum.io/get/width/1200/crop/675/noanimate/https://c-dev.netlify.app" width="720" alt="Portfolio preview" style="border-radius:8px;"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://c-dev.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-c--dev.netlify.app-70A5FD?style=for-the-badge&labelColor=0d1117&logo=netlify&logoColor=70A5FD" alt="Visit Portfolio"/>
-  </a>
-</p>
 
 <br>
 <hr>
